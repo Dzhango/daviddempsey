@@ -17,7 +17,7 @@ I'm a third year Computer Science student at UC San Diego. Recently, I've been m
  
  * With ACM Hack, I've been creating and teaching web development and Python workshops. You can check these out on the [ACM UCSD YouTube channel](https://www.youtube.com/playlist?list=PLpmCTDt8lemUcpBJquYLrfcQLc919tI2g)!
  
-## Projects
+## 🛠️ Projects
 
 <details>
 <summary><strong>Click to expand</strong></summary>
