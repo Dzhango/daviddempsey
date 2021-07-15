@@ -4,7 +4,7 @@
 
 ## 🌊 Hey there! I'm David
 
-I'm a third year Computer Science student at UC San Diego. Recently, I've been mostly working on full-stack web and mobile development projects. Outside of school and work, I love to cook for my friends and family, go snowboarding, and surf at Scripps Beach. Thanks for checking out my profile!
+I'm an incoming fourth year Computer Science student at UC San Diego. Recently, I've been mostly working on full-stack web and mobile development projects. Outside of school and work, I love to cook for my friends and family, go snowboarding, and surf at Scripps Beach. Thanks for checking out my profile!
  
  
  ## 🏂 Current Involvements
