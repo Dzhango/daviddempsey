@@ -11,7 +11,7 @@ I'm an incoming fourth year Computer Science student at UC San Diego. Recently, 
 
  * I'm currently working as the Head Computer Science Tutor for Professor Niema Moshiri's CSE 100 (Advanced Data Structures: C++).
  
- * I recently founded my startup [Muse, a social network designed to bring people together through their similar music tastes](https://www.muuse.app). We're still very early on in development, but we're hoping to launch by this summer! 
+ * I recently founded my startup [Muse, a social network designed to bring people together through their similar music tastes](https://www.muuse.app). We're still very early on in development, but we're hoping to launch by 2022! 
  
  * I've been working with high schools in disadvantaged areas of San Diego to help organize and teach computer science programs and labs with CS foreach. You can learn more about us [here](https://csforeach.ucsd.edu/)!
  
